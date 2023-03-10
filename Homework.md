@@ -1,2 +1,3 @@
 # otus_qa_auto_learning
-Homework repo
+print ('Sorry for the delayed homework!)
+
